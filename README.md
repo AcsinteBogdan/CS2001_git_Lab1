@@ -26,7 +26,6 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
---- | --- | ---
 1907890 | Mad Max | 2015
 1907890 | Titanic | 1997
 1907890 | Borat | 2006
